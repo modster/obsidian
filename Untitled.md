@@ -1,0 +1,1 @@
+https://silentvoid13.github.io/Templater/internal-functions/internal-modules/app-module.html#examples

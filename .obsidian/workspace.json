@@ -43,13 +43,100 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "snips/snips 1.md",
+                "file": "2025-01-09.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
+              "title": "2025-01-09"
+            }
+          },
+          {
+            "id": "94e0a02e9329c699",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/templater/Templater Plugin.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Templater Plugin"
+            }
+          },
+          {
+            "id": "eecdbc0bd02fdd2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/templater/Templater Plugin.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Templater Plugin"
+            }
+          },
+          {
+            "id": "9771c21ce561964d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/Screenshot from 2025-01-09 16-57-21.png"
+              },
+              "icon": "lucide-image",
+              "title": "Screenshot from 2025-01-09 16-57-21"
+            }
+          },
+          {
+            "id": "603f34a998b6228c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/snips.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "snips"
+            }
+          },
+          {
+            "id": "2ad6425073c93456",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "snips/snips 1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
               "title": "snips 1"
+            }
+          },
+          {
+            "id": "917b70f9ae6d42e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 2.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 2"
             }
           },
           {
@@ -58,13 +145,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/templatr/templatr.md",
+                "file": "templates/templater/templater.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "templatr"
+              "title": "templater"
             }
           },
           {
@@ -83,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -226,18 +313,26 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3b5ca9782fdd522a",
+  "active": "917b70f9ae6d42e7",
   "lastOpenFiles": [
-    "templates/snips.md",
-    "snips/snips 1.md",
-    "README.md",
     "Untitled.md",
-    "snips",
-    "templates/composer.md.md",
+    "templates/templater/Templater Plugin.md",
+    "templates/templater/templater.md",
+    "templates/templater/Config.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "images/Screenshot from 2025-01-09 16-57-21.png",
+    "images",
+    "README.md",
+    "2025-01-09.md",
+    "templates/snips.md",
     "templates/daily-note.md",
-    "templates/templatr/Untitled.md",
-    "templates/templatr/templatr.md",
-    "templates/templatr",
+    "snips/snips 1.md",
+    "templates/composer.md.md",
+    "templates/templater/Untitled.md",
+    "snips/deno.md",
+    "snips",
+    "templates/templater",
     "templates"
   ]
 }
