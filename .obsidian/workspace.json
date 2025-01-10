@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "196424dd0bc13280",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d6253978ba7f1b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8fe1d1bb7133670f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/composer.md.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "composer.md"
+            }
+          },
+          {
+            "id": "51237bdf6520bc26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "3b5ca9782fdd522a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "snips/snips 1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "snips 1"
+            }
+          },
+          {
+            "id": "71cbdaaf7ac42ce3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/templatr/templatr.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "templatr"
+            }
+          },
+          {
+            "id": "ae07bcb32e18d912",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/composer.md.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "composer.md"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f2fd6ce74cbd5312",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f25a9148dbf4465",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c494e1cdf6c927a9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "20688cc085b45f04",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3d1b9c2d0ff452b9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "acc6381470fdf472",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fc6901fe474911f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "930188dcca152664",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "templates/templatr/templatr.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for templatr"
+            }
+          },
+          {
+            "id": "957c845742ef4b9c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "templates/templatr/templatr.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from templatr"
+            }
+          },
+          {
+            "id": "ddf4c51b34b34fcc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "35302ea4a1c752d1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "templates/templatr/templatr.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of templatr"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "3b5ca9782fdd522a",
+  "lastOpenFiles": [
+    "templates/snips.md",
+    "snips/snips 1.md",
+    "README.md",
+    "Untitled.md",
+    "snips",
+    "templates/composer.md.md",
+    "templates/daily-note.md",
+    "templates/templatr/Untitled.md",
+    "templates/templatr/templatr.md",
+    "templates/templatr",
+    "templates"
+  ]
+}
